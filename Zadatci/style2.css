@@ -1,0 +1,17 @@
+div.black {
+  height: 300px;
+  background-color: black;
+  border-top-left-radius: 60px;
+  border-top-right-radius: 60px;
+}
+div.red {
+  height: 300px;
+  background-color: red;
+  margin: 0;
+}
+div.yellow {
+  height: 300px;
+  background-color: rgb(219, 168, 26);
+  border-bottom-left-radius: 60px;
+  border-bottom-right-radius: 60px;
+}
